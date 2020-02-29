@@ -69,6 +69,14 @@ README.md
 yarn.lock
 ```
 
+#### vue.config.js
+
+```js
+module.exports = {
+  publicPath: './'
+}
+```
+
 ## 開発コマンド
 
 #### サーバー起動
@@ -89,3 +97,4 @@ yarn lint
 ```
 yarn build
 ```
+
